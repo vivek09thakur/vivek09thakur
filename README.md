@@ -1,6 +1,8 @@
 ## Hi, I'm Vivek
 An undergad computer science student from India.
 
+<br/>
+
 **Talking about some Personal Stuff :**
 
 - 👨🏻‍💻 I'm currently working on [a few projects](https://github.com/vivek09thakur/PANDA)
@@ -8,6 +10,7 @@ An undergad computer science student from India.
 - 💬 Ask me about **anything you like**
 - 📫 How to reach me: 20509.vivek@gpranchi.org
 
+<br/>
 
 **Languages and Tools :**
 
@@ -37,17 +40,34 @@ An undergad computer science student from India.
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Numpy-svgrepo-com.svg/640px-Numpy-svgrepo-com.svg.png' width='35px' height='auto' style="margin-bottom:5px"/>
     <!-- Pandas -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/640px-Pandas_mark.svg.png' width='35px' height='auto'/>
-    <!-- Scikit-Learn -->
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png' width='40px' height='auto' style="margin-bottom:10px"/>
     <!-- Tensorflow -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tensorflow-svgrepo-com.svg/640px-Tensorflow-svgrepo-com.svg.png' width='35px' height='auto'/>
     <!-- Pytorch -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pytorch-svgrepo-com.svg/640px-Pytorch-svgrepo-com.svg.png' width='35px' height='auto'/>
+    <!-- Django -->
+    <img src='https://cdn.worldvectorlogo.com/logos/django.svg' width='30px' height='auto' style="margin-bottom:-5px"/>
     <br/>
-    <img src='' width='35px' height='auto'/>
-    <img src='' width='35px' height='auto'/>
-    <img src='' width='35px' height='auto'/>
-    <img src='' width='35px' height='auto'/>
-    <img src='' width='35px' height='auto'/>
-    <img src='' width='35px' height='auto'/>
+    <!-- Git -->
+    <img src='https://cdn.worldvectorlogo.com/logos/git-bash.svg' width='35px' height='auto'/>
+    <!-- VS code -->
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png' width='35px' height='auto'/>
+    <!-- github -->
+    <img src='https://user-images.githubusercontent.com/72696535/226140405-3bd31f1e-8cbb-4506-99db-1f0abce7c3fe.png' width='35px' height='auto'/>
+    <!-- colab -->
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/640px-Google_Colaboratory_SVG_Logo.svg.png' width='60px' height='auto' style="margin-left:-10px"/>
+    <!-- replit -->
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/640px-New_Replit_Logo.svg.png' width='35px' height='auto'style="margin-left:-10px"/>
+    <!-- Windows -->
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/640px-Windows_logo_-_2012_%28dark_blue%29.svg.png' width='35px' height='auto'/>
+    <!-- discord -->
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Google_Cloud_Console_logo.png/640px-Google_Cloud_Console_logo.png' width='35px' height='auto'/>
+</p>
+
+<br/>
+
+**📈 My GitHub Stats :**
+
+<p align="center"/>
+<img width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek09thakur&theme=discord_old_blurple"/>
+<img width="440px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek09thakur&theme=discord_old_blurple">
 </p>
