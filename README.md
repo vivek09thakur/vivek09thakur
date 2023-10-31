@@ -2,7 +2,7 @@
 An undergad computer science student from India.
 <br/>
 
-<img style="max-width:40%;min-width:200px" align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img style="max-width:40%;width:200px" align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 **Talking about some Personal Stuff :**
 
