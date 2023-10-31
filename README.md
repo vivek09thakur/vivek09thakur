@@ -1,3 +1,5 @@
+<img width="100%" src="./Assets/Images/The-Programmers-banner.png"/>
+
 <img width="250px" align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## Hi, I'm Vivek
