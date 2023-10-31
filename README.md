@@ -71,5 +71,5 @@ An undergad computer science student from India.
 
 <p align="center"/>
 <img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek09thakur&theme=discord_old_blurple"/>
-<img width="550px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek09thakur&theme=discord_old_blurple">
+<img width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek09thakur&theme=discord_old_blurple">
 </p>
