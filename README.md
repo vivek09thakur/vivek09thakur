@@ -80,7 +80,7 @@ An undergad computer science student from India.
 
 <br/>
 
-**📈 My GitHub Stats :**
+**My GitHub Stats :**
 
 <p align="center"/>
 <img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek09thakur&theme=dracula"/>
