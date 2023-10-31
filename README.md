@@ -55,7 +55,6 @@ An undergad computer science student from India.
     <!-- Django -->
     <img src='https://cdn.worldvectorlogo.com/logos/django.svg' width='30px' height='auto' style="margin-bottom:-5px"/>
     <!-- Powershell -->
-    <img src="" width="40px">
     <br/>
     <!-- Git -->
     <img src='https://cdn.worldvectorlogo.com/logos/git-bash.svg' width='40px' height='auto'/>
