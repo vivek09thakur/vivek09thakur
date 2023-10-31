@@ -71,8 +71,8 @@ An undergad computer science student from India.
 
 **My GitHub Stats :**
 
-<p align="left"/>
-<img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&size_weight=0.5&lang_count=5&layout=pie&theme=tokyonight&hide_border=True"/>
+<p align="center"/>
+<img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&size_weight=0.5&lang_count=5&layout=donut-vertical&theme=tokyonight&hide_border=True"/>
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&hide_border=True&theme=tokyonight">
 </p>
 
