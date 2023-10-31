@@ -66,7 +66,7 @@ An undergad computer science student from India.
     <!-- replit -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/640px-New_Replit_Logo.svg.png' width='40px' height='auto'/>
     <!-- google cloud -->
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Google_Cloud_Console_logo.png/640px-Google_Cloud_Console_logo.png' width='40px' height='auto'/>
+    <img src='https://www.svgrepo.com/show/448223/gcp.svg' width='40px' height='auto'/>
     <!-- Firebase -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png?20200723100028" width="40px" height="40px">
     <!-- github action -->
@@ -84,6 +84,13 @@ An undergad computer science student from India.
 **📈 My GitHub Stats :**
 
 <p align="center"/>
-<img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek09thakur&theme=discord_old_blurple"/>
-<img width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek09thakur&theme=discord_old_blurple">
+<img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek09thakur&theme=dracula"/>
+<img width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek09thakur&theme=dracula">
+</p>
+
+**Let's Connect :**
+<p align="left">
+<a href="www.linkedin.com/in/vivek09thakur"><img width="42px" src="https://www.svgrepo.com/show/448234/linkedin.svg"/></a>
+<a href="https://www.instagram.com/_vs2306.h5"><img width="40px" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/></a>
+<a href="https://discordapp.com/user/1008823092514144366"><img width="40px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
 </p>
