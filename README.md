@@ -73,10 +73,6 @@ An undergad computer science student from India.
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png?20200723100028" width="40px" height="40px">
     <!-- github action -->
     <img src="https://user-images.githubusercontent.com/93074700/187683327-cddc2c2b-2c39-4445-9852-5dcb10954a39.png" alt="Github Actions" width="40px" /> 
-    <!-- photoshop -->
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png' width='38px' height='auto'/>
-    <!-- Lr -->
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/640px-Adobe_Photoshop_Lightroom_CC_logo.svg.png' width='38px' height='auto'/>
     <!-- Figma -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Figma-1-logo.png/640px-Figma-1-logo.png" width="40px">
 </p>
@@ -85,10 +81,11 @@ An undergad computer science student from India.
 
 **My GitHub Stats :**
 
-<p align="center"/>
-<img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek09thakur&theme=dracula"/>
-<img width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek09thakur&theme=dracula">
+<p align="left"/>
+<img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&size_weight=0.5&lang_count=5&layout=pie&theme=tokyonight&hide_border=True"/>
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&hide_border=True&theme=tokyonight">
 </p>
+
 
 **Let's Connect :**
 <p align="left">
