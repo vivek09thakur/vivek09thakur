@@ -26,21 +26,11 @@ An undergad computer science student from India.
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png' width='40px' height='auto'/>
     <!-- Bootstrap -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png' width='42px' height='auto'height="auto" style="margin-bottom:5px"/>
-    <!-- Tailwind -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40px" height="auto" style="margin-bottom:5px"/>
     <!-- ReactJs -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png' width='40px' height='auto'/>
-    <!-- VueJs -->
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png?20170919082558' width='37px' height='37px' />
-    <!-- Vercel -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ionicons_logo-vercel.svg/640px-Ionicons_logo-vercel.svg.png" width="40px"/>
     <br/>
-    <!-- C--->
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png' width='40px' height='auto'/>
     <!-- C++ -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png' width='40px' height='auto'/>
-    <!-- Java -->
-    <img src="https://www.svgrepo.com/show/184143/java.svg" width="40px" height="40px"/>
     <!-- Python3 -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png' width='40px' height='auto'/>
     <!-- Jupyter Notebook -->
