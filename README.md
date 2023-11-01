@@ -82,4 +82,5 @@ An undergad computer science student from India.
 <a href="www.linkedin.com/in/vivek09thakur"><img width="42px" src="https://www.svgrepo.com/show/448234/linkedin.svg"/></a>
 <a href="https://www.instagram.com/_vs2306.h5"><img width="40px" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/></a>
 <a href="https://discordapp.com/user/1008823092514144366"><img width="40px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
+<a href="https://dev.to/vivek09thakur"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="40px" height="35px"/></a>
 </p>
