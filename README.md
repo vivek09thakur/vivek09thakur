@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFvMNmJOiFKBA/profile-displaybackgroundimage-shrink_350_1400/0/1698684050969?e=1704326400&v=beta&t=BDyS0FZHTWio0t-eSiX0aFed0wNKKvBlafhNdBjt4I4" width="100%"/>
 <img width="250px" align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 # Hi, I'm Vivek
