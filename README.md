@@ -35,8 +35,6 @@ An undergad computer science student from India.
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png' width='40px' height='auto'/>
     <!-- Jupyter Notebook -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/640px-Jupyter_logo.svg.png' width='40px' height='auto'/>
-    <!-- Numpy -->
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Numpy-svgrepo-com.svg/640px-Numpy-svgrepo-com.svg.png' width='40px' height='auto' style="margin-bottom:5px"/>
     <!-- Pandas -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/640px-Pandas_mark.svg.png' width='40px' height='auto'/>
      <!-- colab -->
@@ -50,11 +48,11 @@ An undergad computer science student from India.
     <!-- Powershell -->
     <br/>
     <!-- Git -->
-    <img src='https://cdn.worldvectorlogo.com/logos/git-bash.svg' width='40px' height='auto'/>
+    <img src='https://iconape.com/wp-content/png_logo_vector/git-icon.png' width='40px' height='auto'/>
+    <!-- github -->
+    <img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202098codedevelopergithublogo-115590_115711.png' width='40px' height='auto'/>
     <!-- VS code -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png' width='40px' height='auto'/>
-    <!-- github -->
-    <img src='https://user-images.githubusercontent.com/72696535/226140405-3bd31f1e-8cbb-4506-99db-1f0abce7c3fe.png' width='40px' height='auto'/>
     <!-- replit -->
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/640px-New_Replit_Logo.svg.png' width='40px' height='auto'/>
     <!-- google cloud -->
