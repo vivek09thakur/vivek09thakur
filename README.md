@@ -2,13 +2,12 @@
 
 # Hi, I'm Vivek
 
-An undergad computer science student from India.
+An undergad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots.
 <br/>
 
 
 **Talking about some Personal Stuff :**
 
-- 👨🏻‍💻 I'm currently working on [a few projects](https://github.com/vivek09thakur/PANDA)
 - 🚀 I’m currently learning **AI, ML and Deep Learning**
 - 💬 Ask me about **anything you like**
 - 📫 How to reach me: 20509.vivek@gpranchi.org
@@ -26,7 +25,7 @@ An undergad computer science student from India.
         <!-- CSS3 -->
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/638px-CSS3_logo.svg.png' width='38px' height='auto'/>
         <!-- Javascript -->
-        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/638px-Unofficial_JavaScript_logo_2.svg.png' width='38px' height='auto'/>
+        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png' width='38px' height='auto'/>
         <!-- Bootstrap -->
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/638px-Bootstrap_logo.svg.png' width='42px' height='auto'height="auto" style="margin-bottom:5px"/>
         <!-- ReactJs -->
