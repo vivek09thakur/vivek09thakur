@@ -17,8 +17,10 @@ An undergad computer science student from India.
 
 **Languages and Tools :**
 
-<p align="center">
+<p align="left">
     <p align="left">
+        <!-- Github Stats -->
+        <img width="450px" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&hide_border=True&theme=tokyonight">
         <!-- HTML5 -->
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png?20110131171049' width='38px' height='auto'/>
         <!-- CSS3 -->
@@ -46,27 +48,23 @@ An undergad computer science student from India.
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pytorch-svgrepo-com.svg/638px-Pytorch-svgrepo-com.svg.png' width='38px' height='auto'/>
         <!-- Django -->
         <img src='https://cdn.worldvectorlogo.com/logos/django.svg' width='30px' height='auto' style="margin-bottom:-5px"/>
-        <!-- Git -->
-        <img src='https://cdn.worldvectorlogo.com/logos/git-bash.svg' width='38px' height='auto'/>
+        <!-- Flutter -->
+        <img src='https://www.svgrepo.com/show/353751/flutter.svg' width='38px' height='auto'/>
         <br/>
+        <!-- git -->
+        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png?20220905010122" alt="Github Actions' width='38px' height='auto'/>
         <!-- VS code -->
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png' width='38px' height='auto'/>
-        <!-- github -->
-        <img src='https://user-images.githubusercontent.com/72696535/2261385-3bd31f1e-8cbb-4506-99db-1f0abce7c3fe.png' width='38px' height='auto'/>
-        <!-- replit -->
-        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/638px-New_Replit_Logo.svg.png' width='38px' height='auto'/>
+        <!-- andriod studio -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/768px-Android_Studio_Icon_3.6.svg.png?20210301045217" width="36px" /> 
+        <!-- google idx -->
+        <img src='https://idx.dev/images/code-chevron.svg' width='38px' height='auto'/>
         <!-- google cloud -->
         <img src='https://www.svgrepo.com/show/448223/gcp.svg' width='38px' height='auto'/>
         <!-- Firebase -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png?20200723100028" width="38px" height="38px">
-        <!-- github action -->
-        <img src="https://user-images.githubusercontent.com/93074700/187683327-cddc2c2b-2c39-4445-9852-5dcb10954a39.png" alt="Github Actions" width="38px" /> 
         <!-- Figma -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Figma-1-logo.png/638px-Figma-1-logo.png" width="38px">
-    </p> 
-    <p align="right">   
-        <img width="450px" align="right" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&hide_border=True&theme=tokyonight">
-    </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Figma-1-logo.png/638px-Figma-1-logo.png" width="40px"> 
 </p>
 
 
