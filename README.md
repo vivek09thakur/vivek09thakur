@@ -1,6 +1,4 @@
-<img width="250px" align="right" src="https://user-images.githubusercontent.com/73838190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-# Hi, I'm Vivek
+## Hi, I'm Vivek
 
 An undergad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots.
 <br/>
@@ -8,7 +6,7 @@ An undergad computer science student from India. By my passion I am a programmer
 
 **Talking about some Personal Stuff :**
 
-- 🚀 I’m currently learning **AI, ML and Deep Learning**
+- 🚀 I’m currently learning about : **AI, ML and Deep Learning**
 - 💬 Ask me about **anything you like**
 - 📫 How to reach me: 20509.vivek@gpranchi.org
 
@@ -69,10 +67,10 @@ An undergad computer science student from India. By my passion I am a programmer
 
 <br/>
 
-**My GitHub Stats :**
+**My Github Torphies :**
 
-<p align="left">
-    <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&size_weight=0.5&lang_count=5&layout=donut-vertical&theme=tokyonight&hide_border=True"/>
+<p align="center">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&theme=tokyonight&no-frame=true"/>
 </p>
 
 
