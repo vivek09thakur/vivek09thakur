@@ -62,22 +62,25 @@ An undergad computer science student from India. By my passion I am a programmer
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png?20200723100028" width="38px" height="38px">
         <!-- Figma -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Figma-1-logo.png/638px-Figma-1-logo.png" width="40px"> 
+        <br/>
 </p>
-
 
 <br/>
 
 **My Github Torphies :**
-
 <p align="center">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&theme=tokyonight&no-frame=true&no-frame=true&margin-w=15e"/>
 </p>
-
+<br/>
 
 **Let's Connect :**
 <p align="left">
+<!-- LinkedIn -->
 <a href="www.linkedin.com/in/vivek09thakur"><img width="42px" src="https://www.svgrepo.com/show/448234/linkedin.svg"/></a>
+<!-- Instagram -->
 <a href="https://www.instagram.com/_vs2306.h5"><img width="38px" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/></a>
+<!-- Dev Community -->
+<a href="https://dev.to/vivek09thakur"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width="38px" height="35px"/></a>
+<!-- Discord -->
 <a href="https://discordapp.com/user/1008823092514144366"><img width="38px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
-<a href="https://dev.to/vivek09thakur"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="38px" height="35px"/></a>
 </p>
