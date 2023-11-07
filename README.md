@@ -70,7 +70,7 @@ An undergad computer science student from India. By my passion I am a programmer
 **My Github Torphies :**
 
 <p align="center">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&theme=tokyonight&no-frame=true"/>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&theme=tokyonight&no-frame=true&no-frame=true&margin-w=15e"/>
 </p>
 
 
