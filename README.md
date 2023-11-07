@@ -52,7 +52,7 @@ An undergad computer science student from India.
         <img src='https://www.svgrepo.com/show/353751/flutter.svg' width='38px' height='auto'/>
         <br/>
         <!-- git -->
-        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png?20220905010122" alt="Github Actions' width='38px' height='auto'/>
+        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png?20220905010122' width='38px' height='auto'/>
         <!-- VS code -->
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png' width='38px' height='auto'/>
         <!-- andriod studio -->
