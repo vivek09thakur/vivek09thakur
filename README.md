@@ -1,4 +1,4 @@
-## Hi, I'm Vivek
+# Hi, I'm Vivek
 
 An undergad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots.
 <br/>
@@ -76,7 +76,7 @@ An undergad computer science student from India. By my passion I am a programmer
 **Let's Connect :**
 <p align="left">
 <!-- LinkedIn -->
-<a href="www.linkedin.com/in/vivek09thakur"><img width="42px" src="https://www.svgrepo.com/show/448234/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/vivek09thakur"><img width="42px" src="https://www.svgrepo.com/show/448234/linkedin.svg"/></a>
 <!-- Instagram -->
 <a href="https://www.instagram.com/_vs2306.h5"><img width="38px" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/></a>
 <!-- Dev Community -->
