@@ -18,9 +18,8 @@ An undergad computer science student from India. By my passion I am a programmer
     <p align="left">
         <!-- Github Stats -->
         <img width="450px" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&hide_border=True&theme=tokyonight">
-        <!-- HTML5 -->
+        <!-- Languages and tools -->
         <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,flutter,git,github,python,tensorflow,pytorch,django,arduino,googlecloud,firebase,vscode,xd&perline=6' width='auto' height='auto'/>
-        <!-- CSS3 -->
         <br/>
 </p>
 
