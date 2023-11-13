@@ -35,11 +35,11 @@ An undergad computer science student from India. By my passion I am a programmer
 **Let's Connect :**
 <p align="left">
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/vivek09thakur"><img width="38px" height="38px" src="https://www.svgrepo.com/show/448234/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/vivek09thakur"><img width="38px" height="38px" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <!-- Instagram -->
-<a href="https://www.instagram.com/_vs2306.h5"><img width="38px" height="38px" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/></a>
+<a href="https://www.instagram.com/_vs2306.h5"><img width="38px" height="38px" src="https://skillicons.dev/icons?i=instagram"/></a>
 <!-- Dev Community -->
-<a href="https://dev.to/vivek09thakur"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/DEV_Community_Badge.svg/768px-DEV_Community_Badge.svg.png?20210117012709" width="38px" height="38px"/></a>
+<a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="38px" height="38px"/></a>
 <!-- Discord -->
-<a href="https://discordapp.com/user/1008823092514144366"><img width="38px" height="38px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
+<a href="https://discordapp.com/user/1008823092514144366"><img width="38px" height="38px" src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
