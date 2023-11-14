@@ -3,10 +3,10 @@
 An undergad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots.
 <br/>
 
-
 **Talking about some Personal Stuff :**
 
 - 🚀 I’m currently learning about : **AI, ML and Deep Learning**
+- 📐 I'm currently working on : [some projects]()
 - 💬 Ask me about **anything you like**
 - 📫 How to reach me: 20509.vivek@gpranchi.org
 
@@ -26,12 +26,14 @@ An undergad computer science student from India. By my passion I am a programmer
 <br/>
 
 **My Github Torphies :**
+
 <p align="center">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&theme=tokyonight&no-frame=true&no-frame=true&margin-w=15e"/>
 </p>
 <br/>
 
 **Let's Connect :**
+
 <p align="left">
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/vivek09thakur"><img width="38px" height="38px" src="https://skillicons.dev/icons?i=linkedin"/></a>
