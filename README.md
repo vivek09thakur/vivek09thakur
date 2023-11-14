@@ -6,7 +6,7 @@ An undergad computer science student from India. By my passion I am a programmer
 **Talking about some Personal Stuff :**
 
 - 🚀 I’m currently learning about : **AI, ML and Deep Learning**
-- 📐 I'm currently working on : [some projects]()
+- 📐 I'm currently working on : [some projects](https://vivek09thakur.vercel.app/)
 - 💬 Ask me about **anything you like**
 - 📫 How to reach me: 20509.vivek@gpranchi.org
 
