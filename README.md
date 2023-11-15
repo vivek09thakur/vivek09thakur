@@ -28,7 +28,7 @@ An undergad computer science student from India. By my passion I am a programmer
 **My Github Torphies :**
 
 <p align="center">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&theme=tokyonight&no-frame=true&no-frame=true&margin-w=15e"/>
+    <img width="70%" src="https://metrics.lecoq.io/vivek09thakur?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=5&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=30&config.timezone=Asia%2FCalcutta"/>
 </p>
 <br/>
 
@@ -44,3 +44,5 @@ An undergad computer science student from India. By my passion I am a programmer
 <!-- Discord -->
 <a href="https://discordapp.com/user/1008823092514144366"><img width="38px" height="38px" src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
+
+![Metrics]()
