@@ -28,6 +28,7 @@ An undergad computer science student from India. By my passion I am a programmer
 **Github Achievements**
 
 <p align="center">
+    <br/>
     <img width="85%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
 <br/>
