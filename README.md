@@ -19,7 +19,7 @@ An undergad computer science student from India. By my passion I am a programmer
         <!-- Github Stats -->
         <img width="450px" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&hide_border=True&theme=tokyonight">
         <!-- Languages and tools -->
-        <img src='https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,react,c,cpp,python,tensorflow,pytorch,django,flutter,figma,googlecloud,firebase,git,github,githubactions,vscode,androidstudio,xd,photoshop,heroku&perline=6' width='auto' height='auto'/>
+        <img src='https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,react,c,cpp,git,github,stackoverflow,python,tensorflow,pytorch,django,flutter,figma,googlecloud,firebase,githubactions,vscode,androidstudio,photoshop,heroku&perline=6' width='auto' height='auto'/>
         <br/>
 </p>
 
@@ -27,8 +27,8 @@ An undergad computer science student from India. By my passion I am a programmer
 
 **Contribution Stats**
 
-<p align="center">
-    <img width="450px" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&hide_border=True" />
+<p align="left">
+    <img width="600" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&theme=tokyo-night&hide_border=True&radius=7" />
 </p>
 <br/>
 
