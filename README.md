@@ -19,16 +19,16 @@ An undergad computer science student from India. By my passion I am a programmer
         <!-- Github Stats -->
         <img width="450px" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&hide_border=True&theme=tokyonight">
         <!-- Languages and tools -->
-        <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,flutter,git,github,python,tensorflow,pytorch,django,arduino,googlecloud,firebase,vscode,xd&perline=6' width='auto' height='auto'/>
+        <img src='https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,react,c,cpp,python,tensorflow,pytorch,django,flutter,figma,googlecloud,firebase,git,github,githubactions,vscode,androidstudio,xd,photoshop,heroku&perline=6' width='auto' height='auto'/>
         <br/>
 </p>
 
 <br/>
 
-**HacktoberFest 2k23 Badges:**
+**Contribution Stats**
 
-<p align="left">
-    <img width="70%" src="https://holopin.me/vivek09thakur"/>
+<p align="center">
+    <img width="450px" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&hide_border=True" />
 </p>
 <br/>
 
