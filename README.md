@@ -25,10 +25,10 @@ An undergad computer science student from India. By my passion I am a programmer
 
 <br/>
 
-**Contribution Stats**
+**Github Achievements**
 
-<p align="left">
-    <img width="600" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&theme=tokyo-night&hide_border=True&radius=7" />
+<p align="center">
+    <img width="75%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15" />
 </p>
 <br/>
 
