@@ -39,7 +39,7 @@ An undergad computer science student from India. By my passion I am a programmer
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/vivek09thakur"><img width="38px" height="38px" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <!-- Instagram -->
-<a href="https://www.instagram.com/_vs2306.h5"><img width="38px" height="38px" src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://www.instagram.com/vishme___"><img width="38px" height="38px" src="https://skillicons.dev/icons?i=instagram"/></a>
 <!-- Dev Community -->
 <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="38px" height="38px"/></a>
 <!-- Discord -->
