@@ -37,11 +37,11 @@ An undergrad computer science student from India. By my passion I am a programme
 
 <p align="left">
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/vivek09thakur"><img width="40px" height="40px" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/vivek09thakur"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <!-- Instagram -->
-<a href="https://www.instagram.com/vishme___"><img width="40px" height="40px" src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://www.instagram.com/vishme___"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=instagram"/></a>
 <!-- Dev Community -->
-<a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="40px" height="40px"/></a>
+<a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="42px" height="42px"/></a>
 <!-- Discord -->
-<a href="https://discordapp.com/user/1008823092514144366"><img width="40px" height="40px" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://discordapp.com/user/1008823092514144366"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
