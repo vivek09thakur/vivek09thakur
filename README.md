@@ -1,4 +1,4 @@
-## Hi, I'm Vivek
+# Hi, I'm Vivek
 
 An undergrad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots.
 <br/>
