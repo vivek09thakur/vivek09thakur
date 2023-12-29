@@ -3,7 +3,6 @@
 An undergrad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots.
 <br/>
 
-
 **Talking about some Personal Stuff :**
 
 - 🚀 I’m currently learning about : **AI, ML and Deep Learning**
