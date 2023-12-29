@@ -17,7 +17,7 @@ An undergrad computer science student from India. By my passion I am a programme
 <p align="left">
     <p align="left">
         <!-- Github Stats -->
-        <img width="450px" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&hide_border=True&theme=tokyonight">
+        <img width="340px" height="auto" align="right" src="https://stats.quine.sh/vivek09thakur/github?theme=dark">
         <!-- Languages and tools -->
         <img src='https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,c,cpp,git,github,python,tensorflow,pytorch,django,flutter,figma,googlecloud,azure,firebase,githubactions,vscode,androidstudio,photoshop,heroku&perline=6' width='auto' height='auto'/>
         <br/>
@@ -29,7 +29,7 @@ An undergrad computer science student from India. By my passion I am a programme
 
 <p align="center">
     <br/>
-    <img width="85%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
+    <img width="80%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
 <br/>
 
