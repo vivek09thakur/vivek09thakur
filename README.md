@@ -1,9 +1,8 @@
 # Hi, I'm Vivek
 
-An undergrad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots. Currently learning about **AI, ML and Deep Learning** 🚀 and also working on  **[some projects](https://vivek09thakur.vercel.app/)** 📐.
+An undergrad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots. Currently learning about **AI, ML and Deep Learning** 🚀 and also working on  **[some projects](https://vivek09thakur.vercel.app/)** 📐.Feel free to ask me about **anything you like** and if wanna contact me.Just mail me on : **20509.vivek@gpranchi.org**.
 
-- 💬 Ask me about **anything you like**
-- 📫 How to reach me: 20509.vivek@gpranchi.org
+
 
 <br/>
 
