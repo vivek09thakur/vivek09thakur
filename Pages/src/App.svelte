@@ -1,35 +1,28 @@
 <script lang="ts">
   import ProjectContainer from "./lib/ProjectContainer.svelte";
+  import Nav from "./lib/Nav.svelte";
 </script>
 
 <main>
-  <h1>My Current Ongoing Projects</h1>
+  <Nav/>
 
-  <div class="card">
+  <div class="container">
     <ProjectContainer />
   </div>
 </main>
 
-<style>
+<style lang="css3">
+
   @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
   * {
     font-family: "Roboto Mono", monospace;
   }
   main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
     height: 100%;
     width: 100%;
     margin: 0 auto;
   }
-  h1 {
-    font-size: 2rem;
-    margin-top: 1rem;
-    padding: 1rem 1rem 0 1rem;
-    font-weight: 400;
-    font-family: "Poppins", sans-serif;
-    opacity: .5;
+  .container{
+    margin: 0 auto;
   }
 </style>

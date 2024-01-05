@@ -1,83 +1,113 @@
-<div class="container">
-  <div class="project-card">
-    <h3>HIRO</h3>
-    <p>Your personal healthcare companion</p>
-    <a href="https://github.com/vivek09thakur/HIRO" target="_blank"
-      >View on Github</a
-    >
+<script
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+  crossorigin="anonymous"
+></script>
+
+<div class="card-container">
+  <!-- Card1 -->
+  <div class="card w-75 mb-3">
+    <div class="card-body">
+      <h5 class="card-title">HIRO</h5>
+      <p class="card-text">Your Personal Healthcare Companion :D</p>
+      <a
+        href="https://github.com/vivek09thakur/HIRO"
+        target="_blank"
+        class="btn btn-primary">View On Github</a
+      >
+    </div>
   </div>
 
-  <div class="project-card">
-    <h3>PANDA</h3>
-    <p>Paradigm based Artificial Neural Dailog Agent</p>
-    <a href="https://github.com/vivek09thakur/PANDA" target="_blank"
-      >View on Github</a
-    >
+  <div class="card w-75 mb-3">
+    <div class="card-body">
+      <h5 class="card-title">PANDA</h5>
+      <p class="card-text">Paradigm based Artificial Neural Dailog Agent</p>
+      <a
+        href="https://github.com/vivek09thakur/PANDA"
+        target="_blank"
+        class="btn btn-primary">View On Github</a
+      >
+    </div>
   </div>
 
-  <div class="project-card">
-    <h3>ELSA</h3>
-    <p>Enhanced Language Sequence Agent</p>
-    <a href="https://github.com/vivek09thakur/ELSA" target="_blank"
-      >View on Github</a
-    >
+  <div class="card w-75 mb-3">
+    <div class="card-body">
+      <h5 class="card-title">ELSA</h5>
+      <p class="card-text">Enhanced Language Sequence Agent (ELSA)</p>
+      <a
+        href="https://github.com/vivek09thakur/ELSA"
+        target="_blank"
+        class="btn btn-primary">View On Github</a
+      >
+    </div>
   </div>
 
-  <div class="project-card">
-    <h3>LearnIT</h3>
-    <p>
-      An open source free of cost learning platform for all the computer science
-      students pursuing their diplomas
-    </p>
-    <a href="https://learnit-io.vercel.app/" target="_blank">Visit Website</a>
+  <div class="card w-75 mb-3">
+    <div class="card-body">
+      <h5 class="card-title">LearnIT</h5>
+      <p class="card-text">
+        An open source free of cost learning platform for all the computer
+        science students pursuing their diplomas.
+      </p>
+      <a
+        href="https://learnit-io.vercel.app/"
+        target="_blank"
+        class="btn btn-primary">Visit Website</a
+      >
+    </div>
   </div>
 </div>
 
 <style lang="css3">
-  .container {
-    width: 70%;
-    margin: 0 auto;
+  @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css");
+  .card-container{
+    margin: auto;
+    width:70%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
   }
-  .project-card {
+  .card {
     font-family: "Poppins", sans-serif;
-    background: #2b3962;
-    padding: 0.5rem 1rem 1rem 1rem;
-    margin: 20px 0;
-    border-radius: 0.2rem;
-    border: 1px solid #f1f1f131;
+    border-radius: .2rem !important;
+    width: 33% !important;
+    min-height: 33% !important;
+    margin: 2%;
   }
-  .project-card:hover {
-    transform: scale(1.05);
-    transition: all 0.5s ease-in-out;
-    position: relative;
-    z-index: 1;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  .card:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease-in-out;
   }
-  .project-card h3 {
-    margin: 0 !important;
-    font-weight: 300;
-    letter-spacing: 1px;
+  .card .card-title {
+    font-size: 100% !important;
+    color: #202123;
   }
-  .project-card p {
-    margin: 0 !important;
-    font-size: 85%;
-    padding: 0.5rem 0 1rem 0;
-    letter-spacing: 1px;
-    opacity: 0.8;
+  .card .card-text{
+    font-size: 85% !important;
+    opacity: .8;
   }
-  .project-card a {
-    text-decoration: none;
-    font-family: "JetBrains Mono", monospace;
-    color: #fff;
-    background: #1e2a47;
-    margin: auto 0.3rem;
-    padding: 0.5rem 1rem;
-    border-radius: 0.2rem;
+  .btn{
+    border-radius: .2rem !important;
+    
+  }
+  .btn-primary{
+    font-size: 75% !important;
+    opacity: .8;
+    font-family: 'JetBrains Mono',monospace;
+    background: #810dfd !important;
+    outline: #810dfd !important;
+    border: #810dfd !important;
   }
 
-  @media only screen and (max-width: 600px) {
-    .container {
-      width: 90%;
+  @media (max-width:750px){
+    .card-container{
+      width: 100%;
+    }
+    .card{
+      width: 45% !important;
     }
   }
 </style>
