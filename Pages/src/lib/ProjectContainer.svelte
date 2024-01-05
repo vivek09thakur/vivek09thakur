@@ -5,7 +5,8 @@
 ></script>
 
 <div class="card-container">
-  <!-- Card1 -->
+
+  <!-- Card 1 -->
   <div class="card w-75 mb-3">
     <div class="card-body">
       <h5 class="card-title">HIRO</h5>
@@ -18,6 +19,7 @@
     </div>
   </div>
 
+  <!-- Card 2 -->
   <div class="card w-75 mb-3">
     <div class="card-body">
       <h5 class="card-title">PANDA</h5>
@@ -30,6 +32,7 @@
     </div>
   </div>
 
+  <!-- Card 3 -->
   <div class="card w-75 mb-3">
     <div class="card-body">
       <h5 class="card-title">ELSA</h5>
@@ -42,6 +45,7 @@
     </div>
   </div>
 
+  <!-- Card 4 -->
   <div class="card w-75 mb-3">
     <div class="card-body">
       <h5 class="card-title">LearnIT</h5>
@@ -56,6 +60,35 @@
       >
     </div>
   </div>
+
+  <!-- Card 5 -->
+  <div class="card w-75 mb-3">
+    <div class="card-body">
+      <h5 class="card-title">Baymax</h5>
+      <p class="card-text">
+        As it's name suggests, you all time fav buddy
+      </p>
+      <a
+        href="https://github.com/vivek09thakur"
+        target="_blank"
+        class="btn btn-primary">Currently Private</a>
+    </div>
+  </div>
+
+  <!-- Card 6 -->
+  <div class="card w-75 mb-3">
+    <div class="card-body">
+      <h5 class="card-title">FileTransfer</h5>
+      <p class="card-text">
+        A cross platform file transfer web app using javascript.
+      </p>
+      <a
+        href="https://github.com/vivek09thakur/FileTransfer"
+        target="_blank"
+        class="btn btn-primary">View On Github</a>
+    </div>
+  </div>
+
 </div>
 
 <style lang="css3">
@@ -99,6 +132,7 @@
     background: #810dfd !important;
     outline: #810dfd !important;
     border: #810dfd !important;
+    text-transform: capitalize;
   }
 
   @media (max-width:750px){
