@@ -8,7 +8,7 @@
   <div class="container-fluid">
     <a class="navbar-brand" href="https://github.com/vivek09thakur">
       <img
-        src="src/assets/svelte.svg"
+        src="/svelte.svg"
         alt="Logo"
         width="30"
         height="24"
