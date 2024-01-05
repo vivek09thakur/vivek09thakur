@@ -96,7 +96,7 @@
   .btn-primary{
     font-size: 75% !important;
     opacity: .8;
-    font-family: 'JetBrains Mono',monospace;
+    font-family: 'JetBrains Mono', monospace;
     background: #810dfd !important;
     outline: #810dfd !important;
     border: #810dfd !important;
