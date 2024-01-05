@@ -4,15 +4,15 @@
 </script>
 
 <main>
-  <Nav/>
-
+  <!-- Navbar -->
+  <Nav />
+  <!-- Project-Container -->
   <div class="container">
     <ProjectContainer />
   </div>
 </main>
 
 <style lang="css3">
-
   @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
   * {
     font-family: "Roboto Mono", monospace;
@@ -22,7 +22,7 @@
     width: 100%;
     margin: 0 auto;
   }
-  .container{
+  .container {
     margin: 0 auto;
   }
 </style>

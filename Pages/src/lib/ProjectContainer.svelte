@@ -5,7 +5,6 @@
 ></script>
 
 <div class="card-container">
-
   <!-- Card 1 -->
   <div class="card w-75 mb-3">
     <div class="card-body">
@@ -65,13 +64,12 @@
   <div class="card w-75 mb-3">
     <div class="card-body">
       <h5 class="card-title">Baymax</h5>
-      <p class="card-text">
-        As it's name suggests, you all time fav buddy
-      </p>
+      <p class="card-text">As it's name suggests, you all time fav buddy</p>
       <a
         href="https://github.com/vivek09thakur"
         target="_blank"
-        class="btn btn-primary">Currently Private</a>
+        class="btn btn-primary">Currently Private</a
+      >
     </div>
   </div>
 
@@ -85,17 +83,17 @@
       <a
         href="https://github.com/vivek09thakur/FileTransfer"
         target="_blank"
-        class="btn btn-primary">View On Github</a>
+        class="btn btn-primary">View On Github</a
+      >
     </div>
   </div>
-
 </div>
 
 <style lang="css3">
   @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css");
-  .card-container{
+  .card-container {
     margin: auto;
-    width:70%;
+    width: 70%;
     height: 70%;
     display: flex;
     justify-content: center;
@@ -105,12 +103,13 @@
   }
   .card {
     font-family: "Poppins", sans-serif;
-    border-radius: .2rem !important;
+    border-radius: 0.2rem !important;
     width: 33% !important;
     min-height: 33% !important;
     margin: 2%;
   }
-  .card:hover{
+  
+  .card:hover {
     transform: scale(1.03);
     transition: all 0.3s ease-in-out;
   }
@@ -118,28 +117,27 @@
     font-size: 100% !important;
     color: #202123;
   }
-  .card .card-text{
+  .card .card-text {
     font-size: 85% !important;
-    opacity: .8;
+    opacity: 0.8;
   }
-  .btn{
-    border-radius: .2rem !important;
-    
+  .btn {
+    border-radius: 0.2rem !important;
   }
-  .btn-primary{
+  .btn-primary {
     font-size: 75% !important;
-    opacity: .8;
+    opacity: 0.8;
     background: #810dfd !important;
     outline: #810dfd !important;
     border: #810dfd !important;
     text-transform: capitalize;
   }
 
-  @media (max-width:750px){
-    .card-container{
+  @media (max-width: 750px) {
+    .card-container {
       width: 100%;
     }
-    .card{
+    .card {
       width: 45% !important;
     }
   }
