@@ -13,12 +13,22 @@
         width="30"
         height="24"
         class="d-inline-block align-text-top"
-      />
-      Vivek's Space
+      /><span class="text">Stuffs going inside my head :D</span>
     </a>
   </div>
 </nav>
 
 <style lang="css3">
   @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css");
+
+  .navbar .text {
+    opacity: 0.7;
+    display: none;
+  }
+  @media screen and (max-width: 680px) {
+    .navbar .text {
+      display: inline-block;
+      font-size: .8rem;
+    }
+  }
 </style>

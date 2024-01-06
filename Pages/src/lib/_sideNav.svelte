@@ -1,12 +1,13 @@
 <div class="_sideNav">
-    <h3>Stuffs inside my head</h3>
+    <h3>Stuffs going inside my head :D </h3>
 </div>
 
 <style lang="css3">
     ._sideNav{
+        height: 2rem;
         position: absolute;
-        left:-8.8%;
-        bottom: 60%;
+        left:-12.8%;
+        bottom: 58%;
         rotate: 90deg;
     }
 
@@ -18,8 +19,15 @@
     }
     @media screen and (max-width:1120px){
         ._sideNav{
-            left: -13.8%;
-            bottom: 60%;
+            left: -19.8%;
+            bottom: 50%;
+        }
+    }
+
+    @media screen and (max-width: 780px){
+        ._sideNav{
+            left: -27.8%;
+            bottom: 50%;
         }
     }
     @media screen and (max-width:680px){

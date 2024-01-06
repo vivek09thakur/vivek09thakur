@@ -6,6 +6,8 @@ html{
   width: 100%;
   overflow-x: hidden;
   color-scheme: dark;
+  scroll-behavior: smooth;
+  transition: all 1s ease-in-out;
 }
 
 body{

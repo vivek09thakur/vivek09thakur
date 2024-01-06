@@ -127,9 +127,9 @@
   .btn-primary {
     font-size: 75% !important;
     opacity: 0.8;
-    background: #810dfd !important;
-    outline: #810dfd !important;
-    border: #810dfd !important;
+    background: rgb(98, 74, 255) !important;
+    outline: rgb(98, 74, 255) !important;
+    border: rgb(98, 74, 255) !important;
     text-transform: capitalize;
   }
 
