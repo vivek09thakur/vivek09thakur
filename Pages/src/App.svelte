@@ -1,11 +1,14 @@
 <script lang="ts">
   import ProjectContainer from "./lib/ProjectContainer.svelte";
   import Nav from "./lib/Nav.svelte";
+  import SideNav from "./lib/_sideNav.svelte";
 </script>
 
 <main>
   <!-- Navbar -->
   <Nav />
+  <!-- Sidebar -->
+  <SideNav />
   <!-- Project-Container -->
   <div class="container">
     <ProjectContainer />
