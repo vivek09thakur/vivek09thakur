@@ -22,7 +22,7 @@
             bottom: 60%;
         }
     }
-    @media screen and (max-width:600px){
+    @media screen and (max-width:680px){
         ._sideNav{
             display: none !important;
         }
