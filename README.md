@@ -17,14 +17,6 @@ An undergrad computer science student from India. By my passion I am a programme
 
 <br/>
 
-**Github Achievements**
-
-<p align="center">
-    <br/>
-    <img width="80%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
-</p>
-<br/>
-
 **Let's Connect :**
 
 <p align="left">
@@ -37,3 +29,12 @@ An undergrad computer science student from India. By my passion I am a programme
 <!-- Discord -->
 <a href="https://discordapp.com/user/1008823092514144366"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
+
+**Github Achievements**
+
+<p align="center">
+    <br/>
+    <img width="90%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
+</p>
+<br/>
+
