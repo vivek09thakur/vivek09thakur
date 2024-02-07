@@ -38,4 +38,3 @@ An undergrad computer science student from India. By my passion I am a programme
 <p align="center">
     <img width="90%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
-<br/>
