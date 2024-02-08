@@ -2,8 +2,6 @@
 
 An undergrad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots. Currently learning about **AI, ML and Deep Learning** 🚀 and also working on **[some projects](https://vishme.vercel.app/)** 📐,feel free to ask me about **anything you like** and if wanna contact me you can just mail me on my **[email](mailto:20509.vivek@gpranchi.org)** 📬.See you soon!
 
-
-**Highlighting my journey as a developer 🚀: [vishme.vercel.app](https://vishme.vercel.app)**
 <br/>
 
 **Languages and Tools :**
@@ -37,3 +35,6 @@ An undergrad computer science student from India. By my passion I am a programme
 <p align="center">
     <img width="90%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
+
+<br/>
+<p align='center'><b>Highlights my journey 🚀: <a href='https://vishme.vercel.app' target='_blank'>vishme.vercel.app</a></b></p>
