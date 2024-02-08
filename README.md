@@ -2,11 +2,11 @@
 
 An undergrad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots. Currently learning about **AI, ML and Deep Learning** 🚀 and also working on **[some projects](https://vishme.vercel.app/)** 📐,feel free to ask me about **anything you like** and if wanna contact me you can just mail me on my **[email](mailto:20509.vivek@gpranchi.org)** 📬.See you soon!
 
-<p align='center'><b>A space of mine 🚀 : <a href='https://vishme.vercel.app' target='_blank'>vishme.vercel.app</a></b></p>
+
+**Highlighting my journey as a developer 🚀: [vishme.vercel.app](https://vishme.vercel.app)**
 <br/>
 
 **Languages and Tools :**
-
 <p align="left">
     <p align="left">
         <!-- Github Stats -->
