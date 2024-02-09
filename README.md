@@ -11,7 +11,7 @@ An undergrad computer science student from India. By my passion I am a programme
         <!-- Github Stats -->
         <img width="340px" height="auto" align="right" src="https://stats.quine.sh/vivek09thakur/github?theme=dark">
         <!-- Languages and tools -->
-        <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,react,nextjs,angular,express,svelte,figma,python,tensorflow,pytorch,flask,django,vscode,mongodb,docker,kubernetes,googlecloud,azure,androidstudio&perline=6' width='auto' height='auto'/>
+        <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,react,nextjs,angular,express,svelte,figma,python,tensorflow,pytorch,flask,django,vscode,mongodb,docker,kubernetes,gitlab,googlecloud,androidstudio&perline=6' width='auto' height='auto'/>
         <br/>
 </p>
 
@@ -28,6 +28,8 @@ An undergrad computer science student from India. By my passion I am a programme
 <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="42px" height="42px"/></a>
 <!-- Discord -->
 <a href="https://discordapp.com/user/1008823092514144366"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=discord"/></a>
+<!--- GitLab --->
+<a href="https://gitlab.com/vivek09thakur"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=gitlab"/></a>
 </p>
 <br/>
 
