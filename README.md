@@ -11,7 +11,7 @@ An undergrad computer science student from India. By my passion I am a programme
         <!-- Github Stats -->
         <img width="340px" height="auto" align="right" src="https://stats.quine.sh/vivek09thakur/github?theme=dark">
         <!-- Languages and tools -->
-        <img src='https://skillicons.dev/icons?i=html,css,c,cpp,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,flask,django,mysql,mongodb,googlecloud,figma,vscode&perline=6' width='auto' height='auto'/>
+        <img src='https://skillicons.dev/icons?i=html,css,c,cpp,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode&perline=6' width='auto' height='auto'/>
         <br/>
 </p>
 
