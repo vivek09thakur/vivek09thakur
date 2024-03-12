@@ -4,6 +4,14 @@ An undergrad computer science student from India. By my passion I am a programme
 
 <br/>
 
+**Vibe with meh**
+
+<a href='https://spotify-github-profile.vercel.app/api/view?uid=31cs6dk24ca5qvanpqmciwrqy6fy&redirect=true'>
+    <p align="center">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31cs6dk24ca5qvanpqmciwrqy6fy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+    </p>
+</a>
+
 **Languages and Tools :**
 <p align="left">
     <p align="left">
@@ -15,6 +23,7 @@ An undergrad computer science student from India. By my passion I am a programme
 </p>
 
 <br/>
+
 
 **Let's Connect :**
 
@@ -29,10 +38,4 @@ An undergrad computer science student from India. By my passion I am a programme
 <a href="https://discordapp.com/user/1008823092514144366"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=discord"/></a>
 <!-- Dev Community -->
 <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="42px" height="42px"/></a>
-</p>
-<br/>
-
-**Github Achievements :**
-<p align="center">
-    <img width="90%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
