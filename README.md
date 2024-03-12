@@ -2,12 +2,6 @@
 
 An undergrad computer science student from India. By my passion I am a programmer. But besides of coding , I love to click pictures, I love to draw sketches. And I love to know more and stay connected to my roots. Currently learning about **AI, ML and Deep Learning** 🚀 and also working on **[some projects](https://vishme.vercel.app/)** 📐,feel free to ask me about **anything you like** and if wanna contact me you can just mail me on my **[email](me.vivek.thakur09@gmail.com)** 📬.See you soon!
 
-<h4 align='center'>🎵 Vibe with me</h4>
-<a href='https://spotify-github-profile.vercel.app/api/view?uid=31cs6dk24ca5qvanpqmciwrqy6fy&redirect=true'>
-    <p align="center">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31cs6dk24ca5qvanpqmciwrqy6fy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-    </p>
-</a>
 
 **Languages and Tools :**
 <p align="left">
@@ -34,3 +28,10 @@ An undergrad computer science student from India. By my passion I am a programme
     <!-- Dev Community -->
     <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="42px" height="42px"/></a>
 </p>
+
+<h4 align='center'>🎵 Vibe with me</h4>
+<a href='https://spotify-github-profile.vercel.app/api/view?uid=31cs6dk24ca5qvanpqmciwrqy6fy&redirect=true'>
+    <p align="center">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31cs6dk24ca5qvanpqmciwrqy6fy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+    </p>
+</a>
