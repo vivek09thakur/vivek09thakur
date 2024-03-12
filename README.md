@@ -34,9 +34,3 @@ An undergrad computer science student from India. By my passion I am a programme
     <!-- Dev Community -->
     <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="42px" height="42px"/></a>
 </p>
-<br/>
-
-**Github Achievements :**
-<p align="center">
-    <img width="70%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
-</p>
