@@ -2,7 +2,7 @@
 
 An undergrad computer science student from India. Passionate about programming, photography, sketching, and exploring cultural roots. Currently learning about **AI, ML and Deep Learning** 🚀, while working on **[some projects](https://vishme.vercel.app/)** 📐,feel free to ask me about **anything you like** and reach me through my **[email](me.vivek.thakur09@gmail.com)** 📬. See you soon!
 
-
+<br/>
 <h4 align='center'>Vibe with me 🎵</h4>
 <a href='https://spotify-github-profile.vercel.app/api/view?uid=31cs6dk24ca5qvanpqmciwrqy6fy&redirect=true'>
     <p align="center">
@@ -22,6 +22,7 @@ An undergrad computer science student from India. Passionate about programming, 
 <br/>
 
 
+
 **Let's Connect :**
 <p align="left">
     <!-- LinkedIn -->
@@ -38,5 +39,5 @@ An undergrad computer science student from India. Passionate about programming, 
 
 **Github Achievements :**
 <p align="center">
-    <img width="90%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
+    <img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
