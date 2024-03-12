@@ -1,6 +1,6 @@
 # Hi, I'm Vivek
 
-An undergrad computer science student from India. Passionate about programming, photography, sketching, and exploring cultural roots. Currently learning about **AI, ML and Deep Learning** 🚀 along with working on **[some projects](https://vishme.vercel.app/)** 📐,feel free to ask me about **anything you like** and if wanna contact me you can just mail me on my **[email](me.vivek.thakur09@gmail.com)** 📬.See you soon!
+An undergrad computer science student from India. Passionate about programming, photography, sketching, and exploring cultural roots. Currently learning about **AI, ML and Deep Learning** 🚀, while working on **[some projects](https://vishme.vercel.app/)** 📐,feel free to ask me about **anything you like** and reach me through my **[email](me.vivek.thakur09@gmail.com)** 📬. See you soon!
 
 
 <h4 align='center'>Vibe with me 🎵</h4>
