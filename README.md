@@ -8,7 +8,7 @@ An undergrad computer science student from India. Passionate about programming, 
 <p align="left">
     <p align="left">
         <!-- Github Stats -->
-        <img width="auto" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&show_icons=true">
+        <img width="auto" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&show_icons=true&hide_border">
         <!-- Languages and tools -->
         <img src='https://skillicons.dev/icons?i=html,css,c,cpp,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode&perline=6' width='auto' height='auto'/>
         <br/>
