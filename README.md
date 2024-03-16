@@ -34,5 +34,5 @@ An undergrad computer science student from India. Passionate about programming, 
 
 **Github Achievements :**
 <p align="center">
-    <img width="95%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
+    <img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
