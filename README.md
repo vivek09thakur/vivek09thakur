@@ -10,7 +10,7 @@ A computer science undergrad from India.I am passionate about exploring the chal
         <!-- Github Stats -->
         <img width="auto" height="auto" align="right" src="https://stats.quine.sh/vivek09thakur/github?theme=dark">
         <!-- Languages and tools -->
-        <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode&perline=6' width='auto' height='auto'/>
+        <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,docker,linux&perline=6' width='auto' height='auto'/>
         <br/>
 </p>
 <br/>
