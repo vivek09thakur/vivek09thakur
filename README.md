@@ -1,8 +1,6 @@
 # Hi, I'm Vivek
 
-An undergrad computer science student at [BITS, pilani](https://www.bits-pilani.ac.in/) and an AI ML enthusiast from India, passionate about exploring the challenges and opportunities of new technologies, especially about programming, photography, sketching, and exploring cultural roots. Currently learning about **AI, ML and Deep Learning** 🚀while working on [some projects](https://vishme.vercel.app/) 📐, feel free to ask me about **anything you like** and reach me through my [email](me.vivek.thakur09@gmail.com) 📬. See you soon!
-
-<br/>
+BITS Pilani undergrad, passionate about AI, ML, UI/UX & Full-stack development. Also, a photography and sketching enthusiast.
 
 **Languages and Tools :**
 <p align="left">
