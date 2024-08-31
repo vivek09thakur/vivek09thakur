@@ -18,6 +18,7 @@ BITS Pilani undergrad, passionate about AI, ML, UI/UX & Full-stack development. 
 
 <br/>
 <br/>
+<br/>
 
 ## Let's Connect 
 <p align="left">
