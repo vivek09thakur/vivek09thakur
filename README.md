@@ -7,7 +7,6 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
 - [x] A Scholar Trainee at [Wipro Limited](https://www.wipro.com/)
 - [x] An Azure Server Admin (L1) at [CSMIA](https://csmia.adaniairports.com/)
 
-<h4 align="center">Highlights of my journey as a developer✨ : <a href="https://vishme.vercel.app" >vishme.vercel.app</a></h4>
 
 ## Languages and Tool
 <p align="left">
@@ -36,3 +35,4 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
     <!-- Dev Community -->
     <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="42px" height="42px"/></a>
 </p>
+
