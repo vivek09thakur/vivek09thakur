@@ -15,16 +15,8 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
 
 
 
-
-<br/>
-<br/>
-<br/>
-
-
-## Holopin badges
-
 <p align="center">
-    <a href="https://holopin.io/@vivek09thakur"><img width="100%" height="auto" src="https://holopin.me/vivek09thakur" /></a>
+    <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=0f1015&color=9e64b9&line=844c9e&point=9e9e9e&area=true&hide_border=true" />
 </p>
 
 ## Let's Connect 
