@@ -3,7 +3,7 @@
 A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Full-stack development. Also, a photography and sketching enthusiast.
 
 
-<h4 align="center">Highlights of my journey as a software developer -</h4>
+<h4 align="center">Highlights of my journey as a developer✨ </h4>
 <p align="center"><b><a href="https://vishme.vercel.app" >vishme.vercel.app</a></b></p>
 
 
