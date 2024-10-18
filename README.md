@@ -2,6 +2,11 @@
 
 A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Full-stack development. Also, a photography and sketching enthusiast.
 
+
+<h4 align="center">Highlights of my journey as a software developer -</h4>
+<p align="center"><b><a href="https://vishme.vercel.app" >vishme.vercel.app</a></b></p>
+
+
 ## Languages and Tools
 <p align="left">
     <p align="left">
@@ -11,9 +16,6 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
         <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,docker,linux&perline=6' width='auto' height='auto'/>
         <br/>
 </p>
-
-
-
 
 <p align="center">
     <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=0f1015&color=9e64b9&line=844c9e&point=9e9e9e&area=true&hide_border=true" />
