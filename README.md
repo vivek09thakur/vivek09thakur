@@ -2,18 +2,16 @@
 
 A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Full-stack development. Also, a photography and sketching enthusiast.
 
+> <h4 align="center">Highlights of my journey as a developer✨ : <a href="https://vishme.vercel.app" >vishme.vercel.app</a></h4>
 
-## Languages and Tools
+## Languages and Tool
 <p align="left">
         <!-- Languages and tools -->
         <img  width='auto' height='auto' 
-            src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,docker,linux&perline=6'/>
+            src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,docker,linux,azure,docker,gitlab&perline=6'/>
         <!-- Github Stats -->
         <img width="auto" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=donut-vertical&hide_border=true&theme=github_dark">
-</p>
-
->[!IMPORTANT]
-> <h4 align="center">Highlights of my journey as a developer✨ : <a href="https://vishme.vercel.app" >vishme.vercel.app</a></h4>
+</p><br/>
 
 ## Activity Stats
 <p align="center">
