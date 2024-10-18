@@ -20,6 +20,13 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
 <br/>
 <br/>
 
+
+## Holopin badges
+
+<p align="center">
+    <a href="https://holopin.io/@vivek09thakur"><img width="70%" height="auto" src="https://holopin.me/vivek09thakur" /></a>
+</p>
+
 ## Let's Connect 
 <p align="left">
     <!-- LinkedIn -->
@@ -32,9 +39,4 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
     <a href="https://discordapp.com/user/1008823092514144366"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=discord"/></a>
     <!-- Dev Community -->
     <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="42px" height="42px"/></a>
-</p>
-
-## Github Achievements
-<p align="center">
-    <img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&row=1&column=7&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
