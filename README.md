@@ -1,6 +1,6 @@
 # Hey There! It's Vivek
 
-A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Full-stack development. Also, a photography and sketching enthusiast.
+A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Full-stack development. Also, a photography and sketching enthusiast. 
 
 ## **I am**
 
