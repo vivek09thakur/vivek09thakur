@@ -1,12 +1,6 @@
-# Hey There! It's Vivek
+# Hi, I'm Vivek
 
 A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Full-stack development. Also, a photography and sketching enthusiast. 
-
-## **I am**
-
-- [x] A Scholar Trainee at [Wipro Limited](https://www.wipro.com/)
-- [x] An Azure Server Admin (L1) at [CSMIA](https://csmia.adaniairports.com/)
-
 
 ## Languages and Tool
 <p align="left">
