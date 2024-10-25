@@ -13,7 +13,7 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
         <img width="auto" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=donut-vertical&hide_border=true&theme=github_dark">
 
 <p align="center">
-    <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=202124&color=a541cd&line=a537cd&point=a541cd&area=true&hide_border=true" />
+    <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=0e0e0e&color=a541cd&line=a537cd&point=a541cd&area=true&hide_border=true" />
 </p>
 
 
