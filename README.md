@@ -1,8 +1,6 @@
-# Hi, I'm Vivek 👋
-> BITS Pilani undergrad | Wiprolite
+# Hi, I'm Vivek!
 
-Passionate about AI/ML, UI/UX, and Full-stack development. Also into photography and sketching.
-
+A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, UI/UX, and full-stack development at Wiprolite. I balance technical expertise with creative interests in photography and sketching.
 
 ## Languages & Tools
 <p>
@@ -10,15 +8,14 @@ Passionate about AI/ML, UI/UX, and Full-stack development. Also into photography
 </p>
 
 
-## GitHub Stats
+## Statistics
 <p align="left">
     <img height="300px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=pie&hide_border=true&theme=github_dark"/>
     <img height="300px" width="60%" align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=121212&color=a541cd&line=a537cd&point=a541cd&area=true&hide_border=true"/>
 </p>
 
----
 
-### 🌐 Let's Connect
+## Let's Connect
 <p>
     <a href="https://www.linkedin.com/in/vivek09thakur"><img src="https://skillicons.dev/icons?i=linkedin" width="42px"/></a>
     <a href="https://twitter.com/notexsisted"><img src="https://skillicons.dev/icons?i=twitter" width="42px"/></a>
