@@ -2,7 +2,7 @@
 
 A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, UI/UX, and full-stack development at Wiprolite. I balance technical expertise with creative interests in photography and sketching.
 
-## Languages & Tools & Analytics
+## Languages & Tools
 <p align="left">
     <!-- Languages & Tools Icons -->
     <img height="300px" width="58%" align="left" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,gitlab&perline=8"/>
