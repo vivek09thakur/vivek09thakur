@@ -9,13 +9,13 @@ A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, 
     <!-- GitHub Language Stats -->
     <img height="auto" width="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=donut-vertical&hide_border=true&theme=github_dark"/>
 </p>
+<br/>
 
 
 
 <p align="left">
-    <img height="auto" align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=121212&color=a541cd&line=a537cd&point=a541cd&area=true&hide_border=true"/>
+    <img height="auto" align="center" width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=121212&color=a541cd&line=a537cd&point=a541cd&area=true&hide_border=true"/>
 </p>
-
 
 ## Let's Connect
 <p>
@@ -25,3 +25,4 @@ A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, 
     <a href="https://discordapp.com/user/1008823092514144366"><img src="https://skillicons.dev/icons?i=discord" width="42px"/></a>
     <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="42px"/></a>
 </p>
+
