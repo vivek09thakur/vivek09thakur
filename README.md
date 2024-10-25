@@ -10,7 +10,7 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
         <img  width='auto' height='auto' 
             src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,gitlab&perline=6'/>
         <!-- Github Stats -->
-        <img width="300px" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=donut-vertical&hide_border=true&theme=github_dark">
+        <img width="auto" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=donut-vertical&hide_border=true&theme=github_dark">
 
 <p align="center">
     <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=0d1117&color=40c463&line=40c463&point=40c463&area=false&hide_border=true" />
