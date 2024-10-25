@@ -2,16 +2,19 @@
 
 A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, UI/UX, and full-stack development at Wiprolite. I balance technical expertise with creative interests in photography and sketching.
 
-## Languages & Tools
-<p>
-<img height='auto' src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,gitlab&perline=8'/>
+## Languages & Tools & Analytics
+<p align="left">
+    <!-- Languages & Tools Icons -->
+    <img height="300px" width="58%" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,gitlab&perline=6"/>
+    <!-- GitHub Language Stats -->
+    <img height="300px" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=pie&hide_border=true&theme=github_dark"/>
 </p>
+
 
 
 ## Analytics
 <p align="left">
-    <img height="300px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=pie&hide_border=true&theme=github_dark"/>
-    <img height="300px" width="60%" align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=121212&color=a541cd&line=a537cd&point=a541cd&area=true&hide_border=true"/>
+    <img height="auto" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=121212&color=a541cd&line=a537cd&point=a541cd&area=true&hide_border=true"/>
 </p>
 
 
