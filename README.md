@@ -8,7 +8,7 @@ A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, 
 </p>
 
 
-## Statistics
+## Analytics
 <p align="left">
     <img height="300px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=pie&hide_border=true&theme=github_dark"/>
     <img height="300px" width="60%" align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=121212&color=a541cd&line=a537cd&point=a541cd&area=true&hide_border=true"/>
