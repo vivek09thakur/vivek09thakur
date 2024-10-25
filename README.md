@@ -1,23 +1,23 @@
+
 # Hi, I'm Vivek
 
-A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Full-stack development. Also, a photography and sketching enthusiast. 
+A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Full-stack development. Also, a photography and sketching enthusiast.
 
-## Languages and Tool
+
+## Languages and Tools
 <p align="left">
         <!-- Languages and tools -->
         <img  width='auto' height='auto' 
-            src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,docker,linux,azure,docker,gitlab&perline=6'/>
+            src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,gitlab&perline=6'/>
         <!-- Github Stats -->
-        <img width="auto" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=donut-vertical&hide_border=true&theme=github_dark">
-</p><br/>
+        <img width="300px" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=donut-vertical&hide_border=true&theme=github_dark">
 
-## Activity Stats
 <p align="center">
     <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=0f1015&color=9e64b9&line=844c9e&point=9e9e9e&area=true&hide_border=true" />
 </p>
 
-## Let's Connect 
-<p align="left">
+## Let's Connnect
+ <p align="left">
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/vivek09thakur"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=linkedin"/></a>
     <!--- Twitter --->
@@ -29,4 +29,4 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
     <!-- Dev Community -->
     <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="42px" height="42px"/></a>
 </p>
-
+</p>
