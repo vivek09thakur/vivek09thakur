@@ -6,9 +6,9 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
 <p align="left">
     <p align="left">
         <!-- Github Stats -->
-        <img width="auto" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=donut-vertical&hide_border=true&theme=github_dark">
+        <img width="auto" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=donut&hide_border=true&theme=github_dark">
         <!-- Languages and tools -->
-        <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,docker,linux&perline=6' width='auto' height='auto'/>
+        <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,docker,linux&perline=7' width='auto' height='auto'/>
         <br/>
 </p>
 
