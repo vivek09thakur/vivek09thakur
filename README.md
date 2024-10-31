@@ -7,7 +7,7 @@ A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, 
     <!-- Languages & Tools Icons -->
     <img height="auto" width="auto" align="right" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,gitlab&perline=7"/>
     <!-- GitHub Language Stats -->
-    <img height="auto" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=pie&hide_border=true&theme=github_dark"/>
+    <img height="auto" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=pie&hide_border=true&theme=github_dark"/>
 </p>
 
 
