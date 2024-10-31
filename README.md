@@ -1,6 +1,6 @@
 # Hi, I'm Vivek
 
-A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Full-stack development. Also, a photography and sketching enthusiast.
+An undergrad CSE student from India, passionate about building innovative projects and learning new technologies like AI, ML, and Deep Learning. I also enjoy exploring the universe, frontend development, photography, and sketching - always seeking to create and discover something new!
 
 ## Languages and Tools
 <p align="left">
