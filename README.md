@@ -17,10 +17,10 @@ A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, 
 </p>
 
 <p>
-    <a href="https://www.linkedin.com/in/vivek09thakur" align="left" ><img src="https://skillicons.dev/icons?i=linkedin" width="42px" align="left" /></a>
-    <a href="https://twitter.com/notexsisted" align="left" ><img src="https://skillicons.dev/icons?i=twitter" width="42px"align="left" /></a>
-    <a href="https://www.instagram.com/vi.shx_/" align="left" ><img src="https://skillicons.dev/icons?i=instagram" width="42px" align="left" /></a>
-    <a href="https://discordapp.com/user/1008823092514144366" align="left" ><img src="https://skillicons.dev/icons?i=discord" width="42px" align="left" /></a>
-    <a href="https://dev.to/vivek09thakur" align="left" ><img src="https://skillicons.dev/icons?i=devto" width="42px" align="left" /></a>
+    <a href="https://www.linkedin.com/in/vivek09thakur" align="left" ><img src="https://skillicons.dev/icons?i=linkedin" width="42px"/></a>
+    <a href="https://twitter.com/notexsisted" align="left" ><img src="https://skillicons.dev/icons?i=twitter" width="42px"/></a>
+    <a href="https://www.instagram.com/vi.shx_/" align="left" ><img src="https://skillicons.dev/icons?i=instagram" width="42px" /></a>
+    <a href="https://discordapp.com/user/1008823092514144366" align="left" ><img src="https://skillicons.dev/icons?i=discord" width="42px"/></a>
+    <a href="https://dev.to/vivek09thakur" align="left" ><img src="https://skillicons.dev/icons?i=devto" width="42px"/></a>
 </p>
 
