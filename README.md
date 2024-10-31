@@ -5,9 +5,9 @@ A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, 
 <h2 align="left">Languages & Tools</h2>
 <p align="left">
     <!-- Languages & Tools Icons -->
-    <img height="auto" width="auto" align="right" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,gitlab&perline=7"/>
+    <img height="auto" width="auto" align="left" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,gitlab&perline=7"/>
     <!-- GitHub Language Stats -->
-    <img height="auto" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=compact&hide_border=true&theme=github_dark"/>
+    <img height="auto" width="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=compact&hide_border=true&theme=github_dark"/>
 </p>
 
 
