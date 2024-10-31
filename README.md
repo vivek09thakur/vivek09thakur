@@ -9,7 +9,7 @@ A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, 
     <!-- GitHub Language Stats -->
     <img height="auto" width="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=compact&hide_border=true&theme=github_dark"/>
 </p>
-<br/>
+<br/><br/>
 
 
 
