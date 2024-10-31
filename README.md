@@ -2,20 +2,21 @@
 
 A BITS Pilani undergraduate and technology enthusiast with experience in AI/ML, UI/UX, and full-stack development at Wiprolite. I balance technical expertise with creative interests in photography and sketching.
 
-## Languages & Tools
-<p align="center">
+<h2 align="left">Languages & Tools</h2>
+<p align="left">
     <!-- Languages & Tools Icons -->
-    <img height="auto" width="auto" align="left" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,gitlab&perline=7"/>
+    <img height="auto" width="auto" align="right" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,gitlab&perline=7"/>
     <!-- GitHub Language Stats -->
-    <img height="auto" width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=compact&hide_border=true&theme=github_dark"/>
+    <img height="auto" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek09thakur&layout=pie&hide_border=true&theme=github_dark"/>
 </p>
 
-## Analytics
-<p align="center">
-    <img height="auto" align="center" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=121212&color=a541cd&line=a537cd&point=a541cd&area=true&hide_border=true"/>
+
+
+<p align="left">
+<h2 align="left">Analytics</h2>
+    <img height="auto" align="right" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek09thakur&bg_color=121212&color=a541cd&line=a537cd&point=a541cd&area=true&hide_border=true"/>
 </p>
 
-## Let's Connect
 <p>
     <a href="https://www.linkedin.com/in/vivek09thakur"><img src="https://skillicons.dev/icons?i=linkedin" width="42px"/></a>
     <a href="https://twitter.com/notexsisted"><img src="https://skillicons.dev/icons?i=twitter" width="42px"/></a>
