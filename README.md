@@ -28,7 +28,7 @@ A BITS Pilani undergrad and Wiprolite who is passionate about AI, ML, UI/UX & Fu
     <!--- Twitter --->
     <a href="https://twitter.com/notexsisted"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=twitter"/></a>
     <!-- Instagram -->
-    <a href="https://www.instagram.com/vi.sh.me/"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=instagram"/></a>
+    <a href="https://www.instagram.com/vivekthakur.sh/"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=instagram"/></a>
     <!-- Discord -->
     <a href="https://discordapp.com/user/1008823092514144366"><img width="42px" height="42px" src="https://skillicons.dev/icons?i=discord"/></a>
     <!-- Dev Community -->
