@@ -1,4 +1,4 @@
-# Hi, I'm Vivek Kumar :wave:
+# Hi, I'm Vivek :wave:
 
 BITS Pilani undergrad & Wiprolite passionate about AI, ML, Full-Stack Development & UI/UX. Photography & sketching enthusiast.
 
