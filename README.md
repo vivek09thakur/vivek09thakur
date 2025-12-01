@@ -6,7 +6,7 @@ BITS Pilani undergrad & Wiprolite passionate about AI, ML, Full-Stack Developmen
 
 ## Skills & Tools
 <p align="left">
-    <img src='https://skillicons.dev/icons?i=python,js,html,css,bootstrap,react,nextjs,flask,django,nodejs,express,git,github,azure,docker,vscode,linux&perline=8'/>
+    <img src='https://skillicons.dev/icons?i=python,js,go,html,css,bootstrap,react,nextjs,flask,django,nodejs,express,git,github,azure,docker,vscode,linux&perline=8'/>
 </p>
 
 ---
