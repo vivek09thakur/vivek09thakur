@@ -17,9 +17,9 @@ AI/ML learner · Full-Stack Developer · Design enthusiast
 ## Experience
 
 * **WebSphere Webservices Admin L1 — MIAL**
-  Python automation, Azure & IBM MQ monitoring, React support, incident management
+  Python automation, Azure Cloud-Middleware
 * **System Engineer L1 — Wipro**
-  Windows server ops, troubleshooting, system monitoring
+  Wintel Ops, ITIL, RCA
 
 ---
 
