@@ -4,6 +4,8 @@
 
 AI/ML learner · Full-Stack Developer · Design enthusiast
 
+<p align="center"><a href="https://vishme.vercel.app" style="text-decoration:none">Highlights of my journy as a developer</a></p>
+
 ---
 
 ## Skills
