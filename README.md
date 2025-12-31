@@ -6,30 +6,33 @@ AI/ML learner · Full-Stack Developer · Design enthusiast
 <a href="https://vishme.vercel.app">Highlights of my journey as a developer</a>
 </p>
 
-<table width="100%" align="center" cellspacing="0" cellpadding="0" style="border:none;">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top" style="border:none; padding-right:24px;">
+    <td valign="top" width="50%">
 
-## 🛠 Skills
+<h2>🛠 Skills</h2>
 
 <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,go,html,css,bootstrap,flask,django,git,github,azure,docker,linux,vscode&perline=8"/>
 
-## 🎓 Education
+<h2>🎓 Education</h2>
+
 - **BTech (IS)** — BITS Pilani  
 - **Diploma** — Govt. Polytechnic Ranchi  
 - **Xth** — Ram Ratan High School  
 
     </td>
 
-    <td width="50%" valign="top" style="border:none; padding-left:24px;">
+    <td valign="top" width="50%">
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&show_icons=true&theme=dark&hide_border=true" />
 
-## 💼 Experience
+<h2>💼 Experience</h2>
+
 - **WebSphere Webservices Admin L1 — MIAL**  
   Python automation, Azure Cloud-Middleware  
+
 - **System Engineer L1 — Wipro**  
   Wintel Ops, ITIL, RCA  
 
@@ -37,15 +40,22 @@ AI/ML learner · Full-Stack Developer · Design enthusiast
   </tr>
 </table>
 
-## 🏆 GitHub Achievements
+<h2>🏆 GitHub Achievements</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vivek09thakur&theme=darkhub&no-frame=true&row=1&margin-w=12" />
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="40" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="40" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="40" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="40" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="40" />
 
-## 🔗 Links
+</p>
+
+<h2>🔗 Links</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/vivek09thakur"><img width="28" src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://twitter.com/notexsisted"><img width="28" src="https://skillicons.dev/icons?i=twitter"/></a>
-  <a href="https://www.instagram.com/vivekthakur.sh/"><img width="28" src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="https://dev.to/vivek09thakur"><img width="28" src="https://skillicons.dev/icons?i=devto"/></a>
+  <a href="https://www.linkedin.com/in/vivek09thakur"><img width="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://twitter.com/notexsisted"><img width="40" src="https://skillicons.dev/icons?i=twitter"/></a>
+  <a href="https://www.instagram.com/vivekthakur.sh/"><img width="40" src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://dev.to/vivek09thakur"><img width="40" src="https://skillicons.dev/icons?i=devto"/></a>
 </p>
