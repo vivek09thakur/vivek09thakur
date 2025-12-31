@@ -1,61 +1,82 @@
-# Hi, I'm Vivek 👋
+# Hi, I'm Vivek
 
-<p align="center">
-AI/ML learner · Full-Stack Developer · Design enthusiast  
-<br/>
-<a href="https://vishme.vercel.app">Highlights of my journey as a developer</a>
-</p>
+A **BITS Pilani (WILP undergraduate)** and **Wiprolite**, passionate about
+**AI, Machine Learning, UI/UX, and Full-Stack Development**.
+I’m also deeply interested in **photography and sketching**, which shape my creative approach to technology.
 
-<table align="center" width="100%">
-  <tr>
-    <td valign="top" width="50%">
+---
 
-<h2>🛠 Skills</h2>
+## Skills & GitHub Activity
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,go,html,css,bootstrap,flask,django,git,github,azure,docker,linux,vscode&perline=8"/>
+<div align="center">
 
-<h2>🎓 Education</h2>
+<table width="100%">
+<tr>
+<td width="50%" align="left" valign="top">
 
-- **BTech (IS)** — BITS Pilani  
-- **Diploma** — Govt. Polytechnic Ranchi  
-- **Xth** — Ram Ratan High School  
+### Languages & Tools
 
-    </td>
+<img 
+src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,vite,react,nextjs,angular,express,python,tensorflow,pytorch,django,flask,mysql,mongodb,googlecloud,figma,vscode,docker,linux&perline=6"
+width="100%"
+/>
 
-    <td valign="top" width="50%">
+</td>
+<td width="50%" align="left" valign="top">
 
-<h2>📊 GitHub Stats</h2>
+### Contribution Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vivek09thakur&show_icons=true&theme=dark&hide_border=true" />
+<img 
+src="https://github-contribution-stats.vercel.app/api/?username=vivek09thakur"
+width="100%"
+/>
 
-<h2>💼 Experience</h2>
-
-- **WebSphere Webservices Admin L1 — MIAL**  
-  Python automation, Azure Cloud-Middleware  
-
-- **System Engineer L1 — Wipro**  
-  Wintel Ops, ITIL, RCA  
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<h2>🏆 GitHub Achievements</h2>
+</div>
+
+---
+
+## Education & Professional Journey
+
+```mermaid
+flowchart LR
+    A[Xth<br/>Ram Ratan High School]
+    --> B[Diploma<br/>Govt. Polytechnic Ranchi]
+    --> C[BTech IS<br/>BITS Pilani]
+    --> D[System Engineer L1<br/>Wipro]
+    --> E[WebSphere Admin L1<br/>MIAL]
+```
+
+
+## Achievements
 
 <p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="40" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="40" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="40" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="40" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="40" />
-
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="48" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="48" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="48" />
 </p>
 
-<h2>🔗 Links</h2>
 
-<p>
-  <a href="https://www.linkedin.com/in/vivek09thakur"><img width="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://twitter.com/notexsisted"><img width="40" src="https://skillicons.dev/icons?i=twitter"/></a>
-  <a href="https://www.instagram.com/vivekthakur.sh/"><img width="40" src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="https://dev.to/vivek09thakur"><img width="40" src="https://skillicons.dev/icons?i=devto"/></a>
+## Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vivek09thakur">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
+  </a>
+  <a href="https://twitter.com/notexsisted">
+    <img src="https://skillicons.dev/icons?i=twitter" width="42" />
+  </a>
+  <a href="https://www.instagram.com/vi.sh.me/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="42" />
+  </a>
+  <a href="https://discordapp.com/user/1008823092514144366">
+    <img src="https://skillicons.dev/icons?i=discord" width="42" />
+  </a>
+  <a href="https://dev.to/vivek09thakur">
+    <img src="https://skillicons.dev/icons?i=devto" width="42" />
+  </a>
 </p>
+
