@@ -8,17 +8,6 @@
 
 <p align="center"><b><a href="https://vishme.vercel.app"> Highlights of my journey as a developer </a></b></p>
 
----
-
-### 🛠 Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,go,html,css,bootstrap,flask,django,git,github,azure,docker,linux,vscode&perline=6" width="48%" align="top" />
-  &nbsp;
-  <img src="https://github-contribution-stats.vercel.app/api/?username=vivek09thakur&theme=react" width="48%" align="top" />
-</p>
-
-
-
 ### 💼 Experience & Education
 <table width="100%">
   <tr>
@@ -39,6 +28,14 @@
     </td>
   </tr>
 </table>
+---
+
+### 🛠 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,go,html,css,bootstrap,flask,django,git,github,azure,docker,linux,vscode&perline=6" width="48%" align="top" />
+  &nbsp;
+  <img src="https://github-contribution-stats.vercel.app/api/?username=vivek09thakur&theme=react" width="48%" align="top" />
+</p>
 
 ---
 
