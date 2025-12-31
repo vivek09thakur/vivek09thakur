@@ -19,16 +19,16 @@ AI/ML learner + Full-Stack developer + Design enthusiast = Me!
 
 ---
 
-### Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,go,html,css,bootstrap,flask,django,git,github,azure,docker,linux,vscode&perline=6" width="48%" align="top" />
+## Languages and Tools
+<p align="center" width="90%">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,go,html,css,bootstrap,flask,django,git,github,gitlab,gcp,pycharm,docker,ubuntu,linux,vscode&perline=6" width="48%" align="top" />
   &nbsp;
   <img src="https://github-contribution-stats.vercel.app/api/?username=vivek09thakur&theme=react" width="48%" align="top" />
 </p>
 
 ---
 
-### Let's Connect
+## Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/vivek09thakur"><img src="https://skillicons.dev/icons?i=linkedin" width="55" /></a>
   <a href="https://twitter.com/notexsisted"><img src="https://skillicons.dev/icons?i=twitter" width="55" /></a>
