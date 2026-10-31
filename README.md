@@ -25,6 +25,8 @@ Cloud Architect by day, AI/ML tinkerer and frontend builder by night.
   <img src="https://skillicons.dev/icons?i=python,bash,js,react,nextjs,tailwind,nodejs,html,css,fastapi,flask,git,github,githubactions,gitlab,jenkins,docker,kubernetes,terraform,ansible,linux,redhat,nginx,prometheus,grafana,gcp,azure,vscode&perline=6" width="49%" align="top" alt="Languages and tools" />
   <img src="https://github-contribution-stats.vercel.app/api/?username=vivek09thakur&theme=react" width="49%" align="top" alt="GitHub contribution stats" />
 </p>
+
+# Achievements and Skill Badges
 <p align="center">
   <img src="https://dev-badges.vercel.app/profile/49e66b41-798d-4bbf-860e-35a9040ac66d/badges.svg?perline=4&theme=dark" width="49%" align="top" alt="Google Cloud Skills Boost badges" />
   <img src="https://dev-badges.vercel.app/github/vivek09thakur/achievements.svg?perline=4&theme=dark" width="49%" align="top" alt="GitHub achievements" />
