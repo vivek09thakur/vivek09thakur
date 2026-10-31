@@ -20,27 +20,19 @@ Cloud Architect by day, AI/ML tinkerer and frontend builder by night.
 - Travelling whenever I can, camera in hand
 - Photography, mostly landscapes and street
 
-## Featured Projects
-| Project | What it is |
-|---|---|
-| [**IshvaraX**](https://github.com/IshvaraX/IshvaraX) | Community platform for people who love to code: open projects, learning paths and a member blog. Next.js 15, TypeScript, Tailwind v4, FastAPI |
-| [**JERN**](https://github.com/IshvaraX/JERN) | Just an Experimental Response Network, a personal AI assistant with a cloud-GPU brain and local hands. Python, PyTorch, Hugging Face, MCP |
-| [**DevBadges API**](https://github.com/vivek09thakur/Dev-Badges-API) | Read-only API for Google Cloud Skills Boost badges and GitHub achievements (JSON and embeddable SVG) |
-| [**Pokemon Team Analyzer**](https://github.com/vivek09thakur/Pokemon-Team-Analyzer) | Analyze a Pokemon team's weaknesses and type coverage using the PokeAPI |
-| [**LAN-Analysis**](https://github.com/vivek09thakur/LAN-Analysis) | Local web app that maps a star-topology LAN: devices, bandwidth, interfaces, DNS. React, Flask |
 
 ## Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,js,react,nextjs,tailwind,nodejs,html,css,fastapi,flask,git,github,githubactions,gitlab,jenkins,docker,kubernetes,terraform,ansible,linux,redhat,nginx,prometheus,grafana,gcp,azure,vscode&perline=10" width="100%" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=python,bash,js,react,nextjs,tailwind,nodejs,html,css,fastapi,flask,git,github,githubactions,gitlab,jenkins,docker,kubernetes,terraform,ansible,linux,redhat,nginx,prometheus,grafana,gcp,azure,vscode&perline=14" width="100%" alt="Languages and tools" />
 </p>
 
 ## Stats, Badges and Achievements
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=vivek09thakur&theme=react" width="49%" align="top" alt="GitHub contribution stats" />
-  <img src="https://dev-badges.vercel.app/github/vivek09thakur/achievements.svg?perline=2" width="49%" align="top" alt="GitHub achievements" />
+  <img src="https://dev-badges.vercel.app/github/vivek09thakur/achievements.svg?perline=4" width="49%" align="top" alt="GitHub achievements" />
 </p>
 <p align="center">
-  <img src="https://dev-badges.vercel.app/profile/49e66b41-798d-4bbf-860e-35a9040ac66d/badges.svg?perline=4" width="100%" alt="Google Cloud Skills Boost badges" />
+  <img src="https://dev-badges.vercel.app/profile/49e66b41-798d-4bbf-860e-35a9040ac66d/badges.svg?perline=6" width="100%" alt="Google Cloud Skills Boost badges" />
 </p>
 
 ## Let's Connect
