@@ -1,33 +1,54 @@
-# Hi, I’m Vivek 👋
+# Hi, I'm Vivek
 
-AI/ML learner + Full-Stack developer + Design enthusiast = Me!
-<p align="center"><b><a href="https://vishme.vercel.app"> Highlights of my journey as a developer </a></b></p>
+Cloud Architect by day, AI/ML tinkerer and frontend builder by night.
+<p align="center"><b><a href="https://vishme.vercel.app">Highlights of my journey as a developer</a></b></p>
 
-**Interests:**
+**About Me**
+- **Cloud Architect** at Wipro, on-site at HPE, building private, air-gapped cloud solutions on **HPE GreenLake**
+- Computer Science undergraduate at **BITS Pilani** (WILP) and alum of Govt. Polytechnic Ranchi
+- Building [IshvaraX](https://ishvarax.vercel.app), a community for people who love to code
+- Tech writer on [dev.to](https://dev.to/vivek09thakur), based in Bengaluru, India
 
-- AI/ML and Data Science
-- Full-Stack Web Development
-- Google Cloud and Midddleware
-- Python Automation
+**Interests**
+- Cloud infrastructure and private cloud (HPE GreenLake, Azure, Google Cloud, OpenStack)
+- AI/ML, fine-tuning small models and local-first assistants
+- Frontend and full-stack (React, Next.js, FastAPI)
+- Python automation and DevOps (Docker, Kubernetes, Terraform, Ansible)
 
-**About Me:**
-- **Developer L1** at Wipro Limited
-- Student at BITS Pilani, WILP Divison
-- Alum of Govt. Polytechnic Ranchi
-- Tech Writer & Lifelong Learner
+**Beyond the Terminal**
+- Running and the gym keep me sane
+- Travelling whenever I can, camera in hand
+- Photography, mostly landscapes and street
+
+## Featured Projects
+| Project | What it is |
+|---|---|
+| [**IshvaraX**](https://github.com/IshvaraX/IshvaraX) | Community platform for people who love to code: open projects, learning paths and a member blog. Next.js 15, TypeScript, Tailwind v4, FastAPI |
+| [**JERN**](https://github.com/IshvaraX/JERN) | Just an Experimental Response Network, a personal AI assistant with a cloud-GPU brain and local hands. Python, PyTorch, Hugging Face, MCP |
+| [**DevBadges API**](https://github.com/vivek09thakur/Dev-Badges-API) | Read-only API for Google Cloud Skills Boost badges and GitHub achievements (JSON and embeddable SVG) |
+| [**Pokemon Team Analyzer**](https://github.com/vivek09thakur/Pokemon-Team-Analyzer) | Analyze a Pokemon team's weaknesses and type coverage using the PokeAPI |
+| [**LAN-Analysis**](https://github.com/vivek09thakur/LAN-Analysis) | Local web app that maps a star-topology LAN: devices, bandwidth, interfaces, DNS. React, Flask |
 
 ## Languages and Tools
-<p align="center" width="90%">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,go,html,css,bootstrap,flask,django,git,github,gitlab,gcp,pycharm,docker,ubuntu,linux,vscode&perline=6" width="48%" align="top" />
-  &nbsp;
-  <img src="https://github-contribution-stats.vercel.app/api/?username=vivek09thakur&theme=react" width="48%" align="top" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,js,react,nextjs,tailwind,nodejs,html,css,fastapi,flask,git,github,githubactions,gitlab,jenkins,docker,kubernetes,terraform,ansible,linux,redhat,nginx,prometheus,grafana,gcp,azure,vscode&perline=10" width="100%" alt="Languages and tools" />
 </p>
 
+## Stats, Badges and Achievements
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=vivek09thakur&theme=react" width="49%" align="top" alt="GitHub contribution stats" />
+  <img src="https://dev-badges.vercel.app/github/vivek09thakur/achievements.svg?perline=2" width="49%" align="top" alt="GitHub achievements" />
+</p>
+<p align="center">
+  <img src="https://dev-badges.vercel.app/profile/49e66b41-798d-4bbf-860e-35a9040ac66d/badges.svg?perline=4" width="100%" alt="Google Cloud Skills Boost badges" />
+</p>
 
 ## Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/vivek09thakur"><img src="https://skillicons.dev/icons?i=linkedin" width="55" /></a>
-  <a href="https://twitter.com/notexsisted"><img src="https://skillicons.dev/icons?i=twitter" width="55" /></a>
-  <a href="https://www.instagram.com/vivekthakur.sh/"><img src="https://skillicons.dev/icons?i=instagram" width="55" /></a>
-  <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="55" /></a>
+  <a href="https://vishme.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/vivek09thakur/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/notexsisted"><img src="https://skillicons.dev/icons?i=twitter" width="48" alt="X" /></a>
+  <a href="https://www.instagram.com/vivekthakur.sh/"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" /></a>
+  <a href="https://dev.to/vivek09thakur"><img src="https://skillicons.dev/icons?i=devto" width="48" alt="dev.to" /></a>
+  <a href="https://stackoverflow.com/users/22438160/vivek-thakur"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" alt="Stack Overflow" /></a>
 </p>
