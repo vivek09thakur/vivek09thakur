@@ -34,7 +34,7 @@ Cloud Architect by day, AI/ML tinkerer and frontend builder by night.
 
 ## Let's Connect
 <p align="left">
-  <a href="https://vishme.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio" /></a>
+  <a href="https://vishme.pages.dev"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/vivek09thakur/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
   <a href="https://twitter.com/notexsisted"><img src="https://skillicons.dev/icons?i=twitter" width="48" alt="X" /></a>
   <a href="https://www.instagram.com/vivekthakur.sh/"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" /></a>
