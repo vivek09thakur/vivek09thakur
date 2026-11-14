@@ -1,7 +1,7 @@
 # Hi, I'm Vivek
 
 Cloud Architect by day, AI/ML tinkerer and frontend builder by night.
-<p align="center"><b><a href="https://vishme.vercel.app">Highlights of my journey as a developer</a></b></p>
+<p align="center"><b><a href="https://vishme.pages.dev">Highlights of my journey as a developer</a></b></p>
 
 **About Me**
 - **Cloud Architect** at Wipro, on-site at HPE, building private, air-gapped cloud solutions on **HPE GreenLake**
